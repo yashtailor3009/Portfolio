@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Edusity/static/css/main.6494ce6b.css",
-    "main.js": "/Edusity/static/js/main.d822a29d.js",
-    "static/media/Yash.png": "/Edusity/static/media/Yash.b555e47c9263443aa741.png",
-    "static/media/Edusity.png": "/Edusity/static/media/Edusity.53ac8ee3965e13edd71d.png",
-    "static/media/FreshMart.png": "/Edusity/static/media/FreshMart.53d47879edac12c62216.png",
-    "static/media/Registration_page.png": "/Edusity/static/media/Registration_page.f99fe54900d16572a71e.png",
-    "static/media/Ecommorce.png": "/Edusity/static/media/Ecommorce.c0faf561c4db04c5e321.png",
-    "static/media/Spring MVC.png": "/Edusity/static/media/Spring MVC.ebfe93d2e0791b7c197e.png",
-    "static/media/Refokus.Clone.png": "/Edusity/static/media/Refokus.Clone.f207590e5dc010d4814d.png",
-    "static/media/database.webp": "/Edusity/static/media/database.f586d04beccc492dccda.webp",
-    "static/media/ui-design.png": "/Edusity/static/media/ui-design.c4acd455fc2040eddcc8.png",
-    "static/media/instagram.png": "/Edusity/static/media/instagram.0bcd1dcb7d853c327af7.png",
-    "index.html": "/Edusity/index.html",
-    "main.6494ce6b.css.map": "/Edusity/static/css/main.6494ce6b.css.map",
-    "main.d822a29d.js.map": "/Edusity/static/js/main.d822a29d.js.map"
+    "main.css": "/Portfolio/static/css/main.6494ce6b.css",
+    "main.js": "/Portfolio/static/js/main.341eef99.js",
+    "static/media/Yash.png": "/Portfolio/static/media/Yash.b555e47c9263443aa741.png",
+    "static/media/Edusity.png": "/Portfolio/static/media/Edusity.53ac8ee3965e13edd71d.png",
+    "static/media/FreshMart.png": "/Portfolio/static/media/FreshMart.53d47879edac12c62216.png",
+    "static/media/Registration_page.png": "/Portfolio/static/media/Registration_page.f99fe54900d16572a71e.png",
+    "static/media/Ecommorce.png": "/Portfolio/static/media/Ecommorce.c0faf561c4db04c5e321.png",
+    "static/media/Spring MVC.png": "/Portfolio/static/media/Spring MVC.ebfe93d2e0791b7c197e.png",
+    "static/media/Refokus.Clone.png": "/Portfolio/static/media/Refokus.Clone.f207590e5dc010d4814d.png",
+    "static/media/database.webp": "/Portfolio/static/media/database.f586d04beccc492dccda.webp",
+    "static/media/ui-design.png": "/Portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/Portfolio/index.html",
+    "main.6494ce6b.css.map": "/Portfolio/static/css/main.6494ce6b.css.map",
+    "main.341eef99.js.map": "/Portfolio/static/js/main.341eef99.js.map"
   },
   "entrypoints": [
     "static/css/main.6494ce6b.css",
-    "static/js/main.d822a29d.js"
+    "static/js/main.341eef99.js"
   ]
 }
