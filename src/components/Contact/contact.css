@@ -8,6 +8,8 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    min-height: 100vh;
+    scroll-margin-top: 80px;
 }
 
 .contactPageTitle {
@@ -62,3 +64,4 @@
     width:3rem;
     margin: 0 0.75rem;
 }
+
