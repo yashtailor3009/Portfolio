@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.6494ce6b.css",
-    "main.js": "/Portfolio/static/js/main.341eef99.js",
+    "main.css": "/Portfolio/static/css/main.3a2f7fd7.css",
+    "main.js": "/Portfolio/static/js/main.00573f58.js",
     "static/media/Yash.png": "/Portfolio/static/media/Yash.b555e47c9263443aa741.png",
     "static/media/Edusity.png": "/Portfolio/static/media/Edusity.53ac8ee3965e13edd71d.png",
     "static/media/FreshMart.png": "/Portfolio/static/media/FreshMart.53d47879edac12c62216.png",
     "static/media/Registration_page.png": "/Portfolio/static/media/Registration_page.f99fe54900d16572a71e.png",
+    "static/media/logo.png": "/Portfolio/static/media/logo.7b8befeb2f65104ca937.png",
     "static/media/Ecommorce.png": "/Portfolio/static/media/Ecommorce.c0faf561c4db04c5e321.png",
     "static/media/Spring MVC.png": "/Portfolio/static/media/Spring MVC.ebfe93d2e0791b7c197e.png",
+    "static/media/resume.png": "/Portfolio/static/media/resume.cf43dc12fe4827e39367.png",
     "static/media/Refokus.Clone.png": "/Portfolio/static/media/Refokus.Clone.f207590e5dc010d4814d.png",
     "static/media/database.webp": "/Portfolio/static/media/database.f586d04beccc492dccda.webp",
     "static/media/ui-design.png": "/Portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
     "static/media/instagram.png": "/Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/Portfolio/index.html",
-    "main.6494ce6b.css.map": "/Portfolio/static/css/main.6494ce6b.css.map",
-    "main.341eef99.js.map": "/Portfolio/static/js/main.341eef99.js.map"
+    "main.3a2f7fd7.css.map": "/Portfolio/static/css/main.3a2f7fd7.css.map",
+    "main.00573f58.js.map": "/Portfolio/static/js/main.00573f58.js.map"
   },
   "entrypoints": [
-    "static/css/main.6494ce6b.css",
-    "static/js/main.341eef99.js"
+    "static/css/main.3a2f7fd7.css",
+    "static/js/main.00573f58.js"
   ]
 }
